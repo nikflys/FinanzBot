@@ -1,0 +1,7 @@
+Ver video sobre como funcionan los markdowns, como hacer un buen readme, roadmap, changelog y brainstorm
+
+Ver video sobre como funciona el .env para no subir datos sensibles a github
+
+
+
+

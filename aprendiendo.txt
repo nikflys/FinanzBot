@@ -1,0 +1,16 @@
+Esta bien tener 4 markdowns, uno de brainstorm, otro de changelog, otro de roadmap y el indispensable, el readme.
+
+Hay que saber que es un markdown, y como se usa. Un markdown es un archivo de texto que utiliza una sintaxis específica para dar formato al contenido. Se usa comúnmente para crear documentación, notas y otros tipos de contenido escrito de manera estructurada. En estos se pueden incluir encabezados, listas, enlaces, imágenes y otros elementos de formato. Se suelen escribir con lo mas nuevo arriba y lo mas viejo abajo, para que lo nuevo sea lo primero que se vea.
+
+Un brainstorm es un archivo donde se anotan ideas y pensamientos de manera libre y sin restricciones. Se utiliza para generar nuevas ideas y soluciones a problemas. En este archivo se pueden incluir dibujos, diagramas y cualquier otro tipo de contenido que ayude a visualizar las ideas.
+
+Un changelog es un archivo que registra los cambios realizados en un proyecto a lo largo del tiempo. Se utiliza para documentar las actualizaciones, mejoras y correcciones de errores en el software. En este archivo se suelen incluir la fecha del cambio, una descripción breve del cambio y el nombre del autor que realizó el cambio, y también pueden tener una estructura de versiones, como "v1.0.0", "v1.1.0", "v2.0.0" etc.
+
+Un roadmap es un archivo que describe la visión y la dirección de un proyecto a largo plazo. Se utiliza para comunicar los objetivos, hitos y planes futuros del proyecto. En este archivo se pueden incluir diagramas de Gantt, cronogramas y cualquier otro tipo de contenido que ayude a visualizar la planificación del proyecto.
+
+Un readme es un archivo que proporciona información básica sobre un proyecto. Se utiliza para explicar qué es el proyecto, cómo instalarlo y usarlo, y cualquier otra información relevante. En este archivo se suelen incluir ejemplos de uso, capturas de pantalla y enlaces a la documentación adicional.
+
+En resumen, tener estos cuatro tipos de markdowns (brainstorm, changelog, roadmap y readme) es una buena práctica para organizar y documentar un proyecto de manera efectiva.
+
+Ademas, es importante mantener estos archivos actualizados y bien organizados para que sean útiles para los miembros del equipo y para cualquier persona que quiera entender el proyecto.
+
