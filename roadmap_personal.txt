@@ -1,3 +1,9 @@
+FinanzBot
+Esta bien tener 4 markdowns, uno de brainstorm, otro de changelog, otro de roadmap y el indispensable, el readme.
+
+Hay que saber que es un markdown, y como se usa. Un markdown es un archivo de texto que utiliza una sintaxis específica para dar formato al contenido. Se usa comúnmente para crear documentación, notas y otros tipos de contenido escrito de manera estructurada. En estos se pueden incluir encabezados, listas, enlaces, imágenes y otros elementos de formato. Se suelen escribir con lo mas nuevo arriba y lo mas viejo abajo, para que lo nuevo sea lo primero que se vea.
+
+Un brainstorm es un archivo donde se anotan ideas y pensamientos de manera libre y sin restricciones. Se utiliza para generar nuevas ideas y soluciones a problemas. En este archivo se pueden incluir dibujos, diagramas y cualquier otro tipo de contenido que ayude a visualizar las ideas.
 Ver video sobre como funcionan los markdowns, como hacer un buen readme, roadmap, changelog y brainstorm
 
 Ver video sobre como funciona el .env para no subir datos sensibles a github

@@ -1,4 +1,4 @@
-# BRAINSTORM para crear el asistente financiero
+# BRAINSTORM para crear FinanzBot
 
 La idea general seria crear un agente de IA el cual interactue con datos obtenidos en webs de finanzas con webscrapping, de manera automatizada y en tiempo real, a la vez que hace un analisis de estos datos y podemos hacerle preguntas con respecto de la informacion que tiene
 

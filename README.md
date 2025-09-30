@@ -1,2 +1,3 @@
-# asistente_financiero
-En este repositorio estaremos creando un agente de Inteligencia Artificial el cual a traves de webscrapping y analisis de datos, nos informe con un menu interactivo sobre las finanzas y economia en la actualidad.
+# FinanzBot
+
+En este repositorio estaremos creando un agente de Inteligencia Artificial llamado FinanzBot, el cual a través de webscrapping y análisis de datos, nos informará con un menú interactivo sobre las finanzas y economía en la actualidad.
