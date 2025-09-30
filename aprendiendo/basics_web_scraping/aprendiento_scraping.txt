@@ -1,0 +1,19 @@
+necesitamos
+
+-requests
+-BeautifulSoup
+-lxml
+
+1. Instalar librerías
+pip install requests beautifulsoup4 lxml pandas
+
+si no funciona, probar con: py -m pip install requests beautifulsoup4 lxml pandas
+
+a la hora de hacer web scraping, uno descarga el html de la pagina y lo analiza con beautifulsoup
+
+
+
+
+
+
+
